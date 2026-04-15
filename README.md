@@ -1,6 +1,6 @@
 # Monokai Pro (CE) for [Kate](https://kate-editor.org/)
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot-kate.png)
 
 ## About this theme
 
